@@ -58,7 +58,8 @@ main figure img {
   margin: 0 auto;
 }
 main figcaption {
-  font-family:'Poller One', cursive;;
+  font-family:'Poller One', cursive;
+  font-size: 110%;
   color: white;
   display: flex;
   justify-content: center;

@@ -45,14 +45,15 @@
       margin: 0px;
     } 
     main figure img {
-      width: 50%;
+      width: 100%;
       display: flex;
       justify-content: center;
       align-items: center;
       margin: 0 auto;
     }
     main figcaption {
-      font-family:'Poller One', cursive;;
+      font-family:'Poller One', cursive;
+      font-size: 130%;
       color: white;
       display: flex;
       justify-content: center;
